@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate developer from philippines who strive to improve my programming skill
+I'm a passionate developer from the Philippines who strives to improve my programming skills.
 
 
 ## 🌐 Socials:
